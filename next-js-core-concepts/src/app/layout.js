@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import NavBar from "@/Components/NavBar";
+import NavBar from "@/components/shared/NavBar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,29 +13,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "NEXT JS CORE CONCEPTS ",
-  description: "Learning NEXT JS CORE CONCEPTS ",
+  title: " NEXT JS CORE CONCEPTS ",
+  description: "LEARNING NEXT JS CORE CONCEPTS",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
-          
-     
-      <NavBar></NavBar>
-
-       <div>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >  
+      <NavBar/>
         {children}
-       </div>
-       
-       <footer>
-        <h1 className="text-2xl font-bold text-red-500 text-center"> CopyRight Reserved by @ASR Ltd.</h1>
-       </footer>
-
-
-
-
       </body>
     </html>
   );
