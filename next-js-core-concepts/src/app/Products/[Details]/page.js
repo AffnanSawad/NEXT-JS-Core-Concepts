@@ -1,8 +1,12 @@
 // app/product/[detailsId]/page.jsx
 
 const Detailspage = async ({ params }) => {
+
+  
     
     const detailsId = await params;
+
+   
   
     console.log("Details ID:", detailsId); // Should show in terminal
   

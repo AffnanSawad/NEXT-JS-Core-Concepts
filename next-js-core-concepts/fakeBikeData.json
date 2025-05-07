@@ -1,0 +1,94 @@
+{
+  "bikes": [  {
+      "id": 1,
+      "name": "Yamaha R15 V4",
+      "brand": "Yamaha",
+      "model": "R15 V4",
+      "engineCC": 155,
+      "price": 520000,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Honda CBR 150R",
+      "brand": "Honda",
+      "model": "CBR 150R",
+      "engineCC": 149,
+      "price": 480000,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Suzuki Gixxer SF",
+      "brand": "Suzuki",
+      "model": "Gixxer SF",
+      "engineCC": 155,
+      "price": 325000,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "TVS Apache RTR 160 4V",
+      "brand": "TVS",
+      "model": "Apache RTR 160 4V",
+      "engineCC": 160,
+      "price": 225000,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Bajaj Pulsar NS160",
+      "brand": "Bajaj",
+      "model": "Pulsar NS160",
+      "engineCC": 160,
+      "price": 210000,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Hero Hunk 150",
+      "brand": "Hero",
+      "model": "Hunk 150",
+      "engineCC": 149,
+      "price": 145000,
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "KTM Duke 125",
+      "brand": "KTM",
+      "model": "Duke 125",
+      "engineCC": 124,
+      "price": 448000,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Royal Enfield Classic 350",
+      "brand": "Royal Enfield",
+      "model": "Classic 350",
+      "engineCC": 349,
+      "price": 580000,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Lifan KPR 165R",
+      "brand": "Lifan",
+      "model": "KPR 165R",
+      "engineCC": 165,
+      "price": 225000,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Keeway RKR 165",
+      "brand": "Keeway",
+      "model": "RKR 165",
+      "engineCC": 165,
+      "price": 210000,
+      "available": false
+    }
+]
+} 
+  
