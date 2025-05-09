@@ -17,10 +17,13 @@ const NavBar = () => {
         { title: "Home", path: "/Home" },
        
         { title: "Products", path: "/Products" },
+
+          
+        { title: "Cars", path: "/Cars" },
        
         { title: "Counters", path: "/Counters" },
       
-        { title: "Blog", path: "/Blog" },
+        { title: "Blogs", path: "/Blogs" },
     ];
 
     return (

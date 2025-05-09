@@ -1,0 +1,47 @@
+{
+    "blogs" : [
+  {
+    "id": 1,
+    "name": "Mastering React in 30 Days",
+    "author_name": "Jane Doe",
+    "date": "2025-05-01",
+    "price": 15.99
+  },
+  {
+    "id": 2,
+    "name": "Understanding JavaScript Closures",
+    "author_name": "John Smith",
+    "date": "2025-04-22",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "Next.js SEO Strategies",
+    "author_name": "Emily Clark",
+    "date": "2025-03-15",
+    "price": 12.5
+  },
+  {
+    "id": 4,
+    "name": "A Beginner's Guide to MongoDB",
+    "author_name": "Michael Lee",
+    "date": "2025-05-03",
+    "price": 8.75
+  },
+  {
+    "id": 5,
+    "name": "Full Stack Development Roadmap",
+    "author_name": "Samantha Ray",
+    "date": "2025-02-27",
+    "price": 18.0
+  },
+  {
+    "id": 6,
+    "name": "TypeScript for React Developers",
+    "author_name": "Affnan Sawad",
+    "date": "2025-05-08",
+    "price": 14.25
+  }
+]
+
+}
